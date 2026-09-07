@@ -10,7 +10,7 @@ I'm a software engineering student and technical builder who likes going underne
 - C++, C#, Java, Python, x86 Assembly, Javascript, Typescript, HTML, CSS 
 
 **Frameworks & Libraries**
-- PyTorch, LangGraph, PennyLane, React, React Native, Node.js, Vite, Framer Motion, Selenium, BeautifulSoup, SFML, Pygame, Discord, yt-dlp
+- PyTorch, LangGraph, PennyLane, React, React Native, Node.js, Vite, Framer Motion, Selenium, BeautifulSoup, Pygame, Discord, yt-dlp, SFML
 
 **Tools**
 - Git / GitHub, VS Code, Visual Studio, Unity
